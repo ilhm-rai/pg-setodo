@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pg-setodo/static/css/main.830aab9c.css",
+    "main.js": "/pg-setodo/static/js/main.92d38db7.js",
+    "index.html": "/pg-setodo/index.html",
+    "main.830aab9c.css.map": "/pg-setodo/static/css/main.830aab9c.css.map",
+    "main.92d38db7.js.map": "/pg-setodo/static/js/main.92d38db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.830aab9c.css",
+    "static/js/main.92d38db7.js"
+  ]
+}
